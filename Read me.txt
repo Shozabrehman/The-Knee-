@@ -1,0 +1,13 @@
+The Knee Tutorial
+
+This is VR game supported with HTC VIVE. To run this game HTC vive is required.   
+
+                          HTC VIVE CONTROLLER EVENTS
+
+	Pointer toggle Button       Touchpad press
+	Pointer set button          Touch pad press
+	Grab toggle button          Grip press
+	UI click button             Trigger Press
+	Menu Toggle button          Button Two press 
+	Teleporting 		    Trackpad 			
+
