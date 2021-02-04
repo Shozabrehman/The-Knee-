@@ -1,0 +1,9 @@
+# wavefront mtl file written by the visualization toolkit
+
+newmtl mtl1
+Ka 0.23268 0.277124 0.31634
+Kd 0.23268 0.277124 0.31634
+Ks 0.23268 0.277124 0.31634
+Ns 3
+Tr 1 illum 3
+
